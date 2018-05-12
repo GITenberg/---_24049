@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26199
     wikipedia: http://en.wikipedia.org/wiki/Han_Feizi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24049#---
 gutenberg_issued: '2007-12-27'
 gutenberg_type: Text
 identifiers:
