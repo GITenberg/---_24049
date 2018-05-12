@@ -1,0 +1,29 @@
+_repo: '---_24049'
+_version: 0.1.0
+alternative_title: Han Feizi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Han, Fei
+    alias: 韩非
+    deathdate: -233
+    gutenberg_agent_id: '26199'
+    url: http://www.gutenberg.org/2009/agents/26199
+    wikipedia: http://en.wikipedia.org/wiki/Han_Feizi
+description: ''
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24049'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Legalism (Chinese philosophy)'
+- !lcc 'B'
+title: 韩非子
+url: http://www.gutenberg.org/ebooks/24049
